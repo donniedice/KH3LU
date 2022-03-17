@@ -1,0 +1,12 @@
+## Interface: 20503
+## Version: 1.0.2a
+## Title:|cffffffffKingdom Hearts 3|r Level Up!
+## Author: DonnieDice
+## Notes: Grats!
+
+## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
+## X-Website: https://github.com/donniedice/KH3LU
+## X-Curse-Project-ID: 594592
+## X-WoWI-ID: 26254
+
+main.lua
