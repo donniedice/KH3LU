@@ -1,4 +1,4 @@
-v1.0.4
+v1.0.5
 ------------------------------
 
 **KH3LU - Kingdom Hearts 3 Level Up!**
@@ -9,11 +9,11 @@ This is an addon that will play the "NEW GAME!" chime from Kingdom Hearts 3 when
 
 ------------------------------
 
-- This addon works in SHADOWLANDS!
+- This addon works in DRAGONFLIGHT!
 
 - This addon works in CLASSIC WOW!
 
-- This addon works in CLASSIC TBC!
+- This addon works in CLASSIC WotLK!
 
 ------------------------------
 <div align="center">
