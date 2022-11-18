@@ -1,6 +1,6 @@
 ## Interface: 30400
-## Version: 1.0.5
-## Title:|cffffffffKingdom Hearts 3|r Level Up!
+## Version: 1.0.6
+## Title:|c04b2c8ffKingdom Hearts 3|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
 
