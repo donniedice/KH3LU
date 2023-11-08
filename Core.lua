@@ -1,4 +1,4 @@
--- v1.0.7
+-- v1.0.8
 
 -- This script contains three frames that handle different events:
 -- 1. Frame A plays a sound when the player levels up.
